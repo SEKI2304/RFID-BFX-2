@@ -37,7 +37,7 @@ interface Printer {
   name: string;
   ip: string;
 }
-
+// IP IMPRESORAS
 const printers: Printer[] = [
   { id: 1, name: 'Impresora 1', ip: '172.16.20.56' },
   { id: 2, name: 'Impresora 2', ip: '172.16.20.57' },
